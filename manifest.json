@@ -1,0 +1,56 @@
+{
+  "short_name": "Caricaturas",
+  "name": "Caricaturas Chidas",
+  "start_url": "index.html",
+
+  "background_color":"white",
+  "display": "standalone",
+  "orientation": "portrait",
+
+
+  "icons": [
+    {
+      "src": "/img/icons/i7.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/img/icons/i6.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "/img/icons/i5.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "/img/icons/i4.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/img/icons/i3.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/img/icons/i2.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+   
+    {
+      "src": "/img/icons/i1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+    
+    
+
+]
+
+}
+
+
+ 
