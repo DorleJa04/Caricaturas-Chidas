@@ -18,7 +18,7 @@ self.addEventListener('install',event=>{
 	const varcacheStatic = caches.open(Static).then(cache=>{
 		return cache.addAll([
 		'/',
-		'/index.html',
+		'index.html',
         '/pages/1.html',
 		'/pages/2.html',
 		'/pages/3.html',
